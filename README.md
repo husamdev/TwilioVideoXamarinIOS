@@ -86,6 +86,7 @@ to be continued...
 Members of the community have contributed to improving and update bindings:
 
 - [MKGNZ](https://github.com/MKGNZ)
+- [husamdev](https://github.com/husamdev)
 
 If you have a bugfix or an update you'd like to add, please open an issue. 
 All pull requests should be opened against the `master` branch.
